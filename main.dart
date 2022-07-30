@@ -88,3 +88,8 @@ class _addToDoState extends State<addToDo> {
     );
   }
 }
+
+class fileHandler {
+  fileHandler._privateConstructor();
+  static final fileHandler instance = fileHandler._privateConstructor();
+}
